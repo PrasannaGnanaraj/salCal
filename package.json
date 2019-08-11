@@ -1,0 +1,12 @@
+{
+  "name": "salcal",
+  "version": "0.0.1",
+  "description": "lit project",
+  "main": "index.js",
+  "repository": "https://github.com/PrasannaGnanaraj/salCal.git",
+  "author": "PrasannaGnanaraj <gnanaprasanna.gnanaraj@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lit-element": "^2.2.1"
+  }
+}
